@@ -21,6 +21,8 @@ $num2=77;
 
 $suma = $num1 + $num2;
 $resta = $num1 - $num2;
+$multi = $num1 * $num2;
+
 
 echo $suma;
 
